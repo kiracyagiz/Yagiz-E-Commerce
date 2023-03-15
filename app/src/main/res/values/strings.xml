@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shopdeneme</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">For our market you can see different products. But for you we choised top 10 saled products you can see from right side. Enjoy!!</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="20dp" />
+    <solid android:color="@color/white" />
+    <stroke android:color="@color/banner_background" android:width="2dp"></stroke>
+</shape>
